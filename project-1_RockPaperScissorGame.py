@@ -39,6 +39,6 @@ result = game(comp, user)
 if result == None:
     print("The game is Tie!")
 elif result == True:
-    print("👍👍👍You win the game.👍👍👍")
+    print("You win the game.")
 else:
-    print("👎👎👎You lose the game.👎👎👎")
+    print("You lose the game.")
